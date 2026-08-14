@@ -48,5 +48,12 @@ CurrencyConverter/
 - Enter the amount
 - Click the button to see the converted value
 
-## License
-This project is open source and available under the MIT License.
+## 👤 Author
+
+**Abhinaw Singh**
+- GitHub: [@Abhinawsingh242](https://github.com/Abhinawsingh242)
+
+---
+
+⭐ If you like this project, give it a star on GitHub!
+
