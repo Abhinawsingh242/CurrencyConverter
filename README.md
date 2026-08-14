@@ -2,6 +2,13 @@
 
 A simple web-based currency converter that lets users convert amounts between different currencies in real time.
 
+## 🎮 Live Demo
+
+[Play the game here](https://abhinawsingh242.github.io/CurrencyConverter/)
+
+## 📸 Preview
+
+
 ## Features
 - Convert between multiple currencies
 - Clean and responsive UI
